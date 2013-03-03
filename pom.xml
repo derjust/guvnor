@@ -18,7 +18,7 @@
   <name>Guvnor multiproject</name>
   <description>
     Guvnor is the web application and repository to govern Drools and jBPM assets.
-	Now also supporting Weblogic
+	Now also supporting Weblogic 10.3
   </description>
 
   <repositories>
